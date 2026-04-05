@@ -1,2 +1,1 @@
-# Itpc100-midtermlaboratoryexam-KentCalubag
-For school 
+# Itpc100-MidtermLaboratoryExam-KentCalubag
